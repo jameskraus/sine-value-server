@@ -16,6 +16,10 @@
     "sin",
     "express"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
   "author": "James Kraus",
   "license": "MIT"
 }
